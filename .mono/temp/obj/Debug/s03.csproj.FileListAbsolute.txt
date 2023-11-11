@@ -1,0 +1,9 @@
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\bin\Debug\s03.dll
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\bin\Debug\s03.pdb
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.csproj.AssemblyReference.cache
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.AssemblyInfo.cs
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.dll
+C:\Users\Ed\Documents\BCS41\s03\.mono\temp\obj\Debug\s03.pdb
